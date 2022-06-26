@@ -6,10 +6,7 @@
   <h3>
         In a language there are many ways to write a concept. Different person practices
         different ways to explain ideas. Some of them are easy to grasp, and some of them are
-        so cryptic that we barely could get to the bottom of writers idea.
-
-    
-        To talk specifically onBengali language, we observe a significant distance between our speaking language and
+        so cryptic that we barely could get to the bottom of writers idea. To talk specifically onBengali language, we observe a significant distance between our speaking language and
         the one that were used before 1900. So the writings or literature is getting more or less
         unattainable for recent generation and the distance will be undoubtedly keep increasing as
         time passes. Our goal is to make this separation shortest as possible so that the literature
