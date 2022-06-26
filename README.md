@@ -1,9 +1,7 @@
 <h1 align="center"> Text Simplification Approach to Reduce Linguistic Complexity of Bengali Language </h1>
 <h2 align = "center" >A final year group project </h2> 
 <h4 align = "center">Documented by <br/> <h5 align = "center">Anas Al Azmi</h5> </h4>
-What it is about 
-
-
+<h2> At a glance <h2/> 
 In a language there are many ways to write a concept. Different person practices
 different ways to explain ideas. Some of them are easy to grasp, and some of them are
 so cryptic that we barely could get to the bottom of writers idea. To talk specifically on
